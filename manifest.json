@@ -1,0 +1,28 @@
+{
+    "routes": [
+        {
+            "title": "Documentation",
+            "heading": true,
+            "routes": [
+                {
+                    "title": "Getting Started",
+                    "path": "/docs/getting-started.md"
+                },
+                {
+                    "title": "Basic Features",
+                    "open": true,
+                    "routes": [
+                        {
+                            "title": "Appointments",
+                            "path": "/docs/basic-features/pages.md"
+                        }
+                    ]
+                },
+                {
+                    "title": "FAQ",
+                    "path": "/docs/faq.md"
+                }
+            ]
+        }
+    ]
+}
