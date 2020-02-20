@@ -6,7 +6,7 @@
             "routes": [
                 {
                     "title": "Getting Started",
-                    "path": "/docs/getting-started.md"
+                    "path": "/getting-started.md"
                 },
                 {
                     "title": "Basic Features",
@@ -14,13 +14,13 @@
                     "routes": [
                         {
                             "title": "Appointments",
-                            "path": "/docs/basic-features/pages.md"
+                            "path": "/basic-features/appointments.md"
                         }
                     ]
                 },
                 {
                     "title": "FAQ",
-                    "path": "/docs/faq.md"
+                    "path": "/faq.md"
                 }
             ]
         }
