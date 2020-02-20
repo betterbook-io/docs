@@ -1,82 +1,60 @@
 ---
-description: Get started with Next.js in the official documentation, and learn more about all our features!
+id: welcome
+title: Welcome to the BetterBook help center
+sidebar_label: Introduction
 ---
 
-# Getting Started
+Here you will find all the information and resources required to set up your booking webpage and start
+taking online bookings with BetterBook.  If anything is still unclear, or you feel that we can
+improve a section of this help center, please [reach out](https://www.betterbook.co.za/contact) to us. 
 
-Welcome to the Next.js documentation!
 
-If you're new to Next.js we recommend that you start with the [learn course](https://nextjs.org/learn/basics/getting-started).
+## Key features
 
-The interactive course with quizzes will guide you through everything you need to know to use Next.js.
+BetterBook provides you with a variety of tools to help you grow your business online 
+by taking online bookings.  BetterBook offers a range of features that will suit any type of 
+business from an independent Yoga studio to a large scale franchise business with multiple locations.
 
-#### System Requirements
+BetterBook offers:
+- Multiple locations so you can set up appointment and events at multiple locations, and manage staff schedules indepently at each location
+- Multiple payment providers so that your customers can choose from a variety of payment types
+- Support around the clock with live chat, email and phone support in English
 
-- [Node.js 10](https://nodejs.org/) or later
-- MacOS, Windows (including WSL), and Linux are supported
 
-## Setup
+## Different ways to take bookings
 
-We recommend creating a new Next.js app using `create-next-app`, which sets up everything automatically for you. To create a project, run:
+### Through a custom webpage developed by us
+If you require a customised page for your online events, BetterBook will gladly assist in developing a booking page
+catering for your needs.  We cater for a range of options and will be able to assist at a fraction of the cost 
+that you will pay for a booking solution.  We will also host your booking page at no extra cost.
 
-```bash
-npm init next-app
-# or
-yarn create next-app
-```
+All our booking pages are mobile first, cross platform and cross browser to ensure that your customers have a first class experience
+when booking online.
 
-After the installation is complete, follow the instructions to start the development server. Try editing `pages/index.js` and see the result on your browser.
+### Through a custom webpage developed by you 
+If you have we web developer handy you can build your own booking page that integrates with the [BetterBook API](https://help.betterbook.co.za/help-center/api-welcome).  Our API is easy to use and your developer will have you taking online bookings in no time!
 
-## Manual Setup
+The [Developer Portal](https://help.betterbook.co.za/help-center/api-welcome) provides all the information required to get started.
 
-Install `next`, `react` and `react-dom` in your project:
 
-```bash
-npm install next react react-dom
-```
+### Through your own website using one of the BetterBook booking templates
+Choose from our bouquet of booking page templates to use for your booking page.  You can customise the templates with your own branding and colors.
 
-Open `package.json` and add the following `scripts`:
+Choosing a hosting option is easy - you can either embed the booking page into your existing website by using one line of code, or you can 
+request BetterBook to host the page for you at no extra cost.
 
-```json
-"scripts": {
-  "dev": "next",
-  "build": "next build",
-  "start": "next start"
-}
-```
 
-These scripts refer to the different stages of developing an application:
 
-- `dev` - Runs `next` which starts Next.js in development mode
-- `build` - Runs `next build` which builds the application for production usage
-- `start` - Runs `next start` which starts a Next.js production server
+## So, how does everything fit together?
+Simple. BetterBook provides you with everything you need to get started.  
 
-Next.js is built around the concept of pages. A page is a [React Component](https://reactjs.org/docs/components-and-props.html) exported from a `.js`, `.jsx`, `.ts`, or `.tsx` file in the `pages` directory.
+The [BetterBook Portal](https://portal.betterbook.co.za) is a secure management portal where you configure your online
+booking experiences.  After signing up for a free trial, you will be able to log into the [BetterBook Portal](https://portal.betterbook.co.za)
+and start setting up your events and services.  The [Getting Started] guide will help you get through the required steps. 
 
-Pages are associated with a route based on their file name. For example `pages/about.js` is mapped to `/about`. You can even add dynamic route parameters with the filename.
+## Next steps
+Follow the [Getting Started](https://portal.betterbook.co.za) guide to set up your online booking page. 
 
-Create a `pages` directory inside your project.
-
-Populate `./pages/index.js` with the following contents:
-
-```jsx
-function HomePage() {
-  return <div>Welcome to Next.js!</div>
-}
-
-export default HomePage
-```
-
-To start developing your application run `npm run dev`. This starts the development server on `http://localhost:3000`.
-
-Visit `http://localhost:3000` to view your application.
-
-So far, we get:
-
-- Automatic compilation and bundling (with webpack and babel)
-- Hot code reloading
-- Static generation and server-side rendering of [`./pages/`](/docs/basic-features/pages.md)
-- [Static file serving](/docs/basic-features/static-file-serving.md). `./public/` is mapped to `/`
 
 ## Related
 
