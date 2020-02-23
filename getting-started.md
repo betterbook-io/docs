@@ -61,15 +61,15 @@ Follow the [Getting Started](https://portal.betterbook.co.za) guide to set up yo
 For more information on what to do next, we recommend the following sections:
 
 <div class="card">
-  <a href="/docs/basic-features/pages.md">
-    <b>Pages:</b>
-    <small>Learn more about what pages are in Next.js.</small>
+  <a href="/docs/basic-features/appointments.md">
+    <b>Appointments:</b>
+    <small>Learn more about what you can do with appointments</small>
   </a>
 </div>
 
 <div class="card">
   <a href="/docs/basic-features/built-in-css-support.md">
-    <b>CSS Support:</b>
-    <small>Use the built-in CSS support to add custom styles to your app.</small>
+    <b>FAQ:</b>
+    <small>Get to know more about BetterBook with the frequently asked questions.</small>
   </a>
 </div>
