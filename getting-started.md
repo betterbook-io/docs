@@ -4,6 +4,7 @@ title: Welcome to the BetterBook help center
 sidebar_label: Introduction
 ---
 
+## Welcome to the BetterBook help center
 Here you will find all the information and resources required to set up your booking webpage and start
 taking online bookings with BetterBook.  If anything is still unclear, or you feel that we can
 improve a section of this help center, please [reach out](https://www.betterbook.co.za/contact) to us. 
@@ -11,46 +12,50 @@ improve a section of this help center, please [reach out](https://www.betterbook
 
 ## Key features
 
-BetterBook provides you with a variety of tools to help you grow your business online 
-by taking online bookings.  BetterBook offers a range of features that will suit any type of 
-business from an independent Yoga studio to a large scale franchise business with multiple locations.
+BetterBook offers a range of features that will suit any type of 
+business from an independent Yoga studio to a large scale franchise business 
+with multiple locations.  The section below outlines the different features of BetterBook.
 
-BetterBook offers:
-- Multiple locations so you can set up appointment and events at multiple locations, and manage staff schedules indepently at each location
-- Multiple payment providers so that your customers can choose from a variety of payment types
-- Support around the clock with live chat, email and phone support in English
+#### Appointment scheduling
+The BetterBook Appointments module allows businesses and professionals to schedule appointments
+online and optionally take online payments from customers. 
+
+
+#### Recurring classes and events
+Manage and schedule classes with ease with BetterBook’s recurring classes and events booking system. 
+
 
 
 ## Different ways to take bookings
 
-### Through a custom webpage developed by us
-If you require a customised page for your online events, BetterBook will gladly assist in developing a booking page
-catering for your needs.  We cater for a range of options and will be able to assist at a fraction of the cost 
-that you will pay for a booking solution.  We will also host your booking page at no extra cost.
+### BetterBook Public Booking Page
+Your BetterBook account comes with a ready to use booking profile where your customers
+can view your company information, services and pricing, and make online bookings.  You can 
+customise your company profile with a custom banner, logo, videos and a photo gallery. 
 
-All our booking pages are mobile first, cross platform and cross browser to ensure that your customers have a first class experience
-when booking online.
+Your business profile address can be accessed by your customers directly
+or shared with customers by having a Call-to-Action button
+on your Facebook page for example.
 
-### Through a custom webpage developed by you 
-If you have we web developer handy you can build your own booking page that integrates with the [BetterBook API](https://help.betterbook.co.za/help-center/api-welcome).  Our API is easy to use and your developer will have you taking online bookings in no time!
-
-The [Developer Portal](https://help.betterbook.co.za/help-center/api-welcome) provides all the information required to get started.
-
-
-### Through your own website using one of the BetterBook booking templates
-Choose from our bouquet of booking page templates to use for your booking page.  You can customise the templates with your own branding and colors.
-
-Choosing a hosting option is easy - you can either embed the booking page into your existing website by using one line of code, or you can 
-request BetterBook to host the page for you at no extra cost.
+An example of a unique company profile and booking page address:     
+```
+https://www.betterbook.io/listings/<unique-company-name>
+``` 
 
 
+### Wordpress plugin
 
-## So, how does everything fit together?
-Simple. BetterBook provides you with everything you need to get started.  
+BetterBook has a Wordpress plugin that allows the booking widget to be embedded into 
+any Wordpress page or post.
 
-The [BetterBook Portal](https://portal.betterbook.co.za) is a secure management portal where you configure your online
-booking experiences.  After signing up for a free trial, you will be able to log into the [BetterBook Portal](https://portal.betterbook.co.za)
-and start setting up your events and services.  The [Getting Started] guide will help you get through the required steps. 
+### Embeddable Widget
+The BetterBook widget can be embedded into any existing website using a few lines of code. 
+
+
+## BetterBook Portal
+The [BetterBook Portal](https://portal.betterbook.io) is a secure management portal where you configure your online
+booking experiences.  After signing up for a free trial, you will be able to log into the [BetterBook Portal](https://portal.betterbook.io)
+and start setting up your events and services.   
 
 ## Next steps
 Follow the [Getting Started](https://portal.betterbook.co.za) guide to set up your online booking page. 
