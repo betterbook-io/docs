@@ -14,7 +14,7 @@
                     "routes": [
                         {
                             "title": "Appointments",
-                            "path": "/docs/basic-features/appointments.md"
+                            "path": "/docs/appointments.md"
                         }
                     ]
                 },
