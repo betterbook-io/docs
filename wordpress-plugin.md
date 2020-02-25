@@ -6,14 +6,21 @@ description: Wordpress Plugin
 
 ## Wordpress Plugin
 The [BetterBook Wordpress Plugin](https://wordpress.org/plugins/betterbook/) is an easy way to
-integrate the BetterBook booking system into an existing Wordpress website.
+integrate the BetterBook booking system into an existing Wordpress website.  This section outlines the 
+steps required in installing the Wordpress plugin on your Wordpress website as well as configuring 
+the plugin to work with your BetterBook account.
 
 ## Installation
-Install the [BetterBook Wordpress Plugin](https://wordpress.org/plugins/betterbook/) in your WordPress admin by navigating
- to `Plugins > Add New` and searching for `BetterBook`.  
+### Guided Installation
+Install the [BetterBook Wordpress Plugin](https://wordpress.org/plugins/betterbook/) from the Wordpress
+Admin console by navigating to `Plugins > Add New` and searching for `BetterBook`.  
  
 From the search results, click on the `Install` button to install the latest version of the 
 plugin.
+
+
+![Install the BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/installation-screenshot.png "Install the BetterBook Wordpress Plugin in Wordpress")
+
  
 ### Manual Installation
 If you are doing a manual install of the plugin, download the plugin from https://wordpress.org/plugins/betterbook/
