@@ -19,6 +19,10 @@
                     ]
                 },
                 {
+                    "title": "Payments",
+                    "path": "/docs/payments.md"
+                },
+                {
                     "title": "Wordpress",
                     "path": "/docs/wordpress-plugin.md"
                 },
