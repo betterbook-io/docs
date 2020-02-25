@@ -47,6 +47,9 @@ To configure your API Key:
 2. Enter your API Key 
 3. Click on "Save" to save the changes.
 
+![Install the BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/betterbook-wordpress-settings.png "Configuring the API Key in Wordpress Settings")
+
+
 ### Adding the short code to a post
 The Wordpress widget can be added to any Post or Page that are created in Wordpress.  
 
@@ -56,5 +59,17 @@ include the widget in that page:
 [betterbook_widget]
 ```
 
-Save the changes to the page.
+#### Adding a shortcode to a post
+Adding the shortcode to a Page or Post is easy using the `shortcode` widget block available in the
+Wordpress text editor.
+
+To add a `shortcode`, click on the `Add Block` icon on the left hand side of the text block and 
+search for the `shortcode` widget.
+![Using BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/add-shortcode-widget.png "Adding a shortcode to a post")
+
+Inside the `shortcode` widget, enter the `[betterbook_widget]` shortcode.
+
+![Using the BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/betterbook_widget_shortcode.png)
+
+Save the changes to the page to activate the BetterBook Wordpress plugin on the page.
 
