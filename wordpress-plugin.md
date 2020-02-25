@@ -19,7 +19,7 @@ From the search results, click on the `Install` button to install the latest ver
 plugin.
 
 
-![Install the BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/installation-screenshot.png "Install the BetterBook Wordpress Plugin in Wordpress")
+![Install the BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/installation-screenshot.png?screenshot "Install the BetterBook Wordpress Plugin in Wordpress")
 
  
 ### Manual Installation
@@ -47,7 +47,7 @@ To configure your API Key:
 2. Enter your API Key 
 3. Click on "Save" to save the changes.
 
-![Install the BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/betterbook-wordpress-settings.png "Configuring the API Key in Wordpress Settings")
+![Install the BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/betterbook-wordpress-settings.png?screenshot60 "Configuring the API Key in Wordpress Settings")
 
 
 ### Adding the short code to a post
@@ -65,11 +65,11 @@ Wordpress text editor.
 
 To add a `shortcode`, click on the `Add Block` icon on the left hand side of the text block and 
 search for the `shortcode` widget.
-![Using BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/add-shortcode-widget.png "Adding a shortcode to a post")
+![Using BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/add-shortcode-widget.png?screenshot "Adding a shortcode to a post")
 
 Inside the `shortcode` widget, enter the `[betterbook_widget]` shortcode.
 
-![Using the BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/betterbook_widget_shortcode.png)
+![Using the BetterBook Wordpress Plugin in Wordpress to take online bookings in Wordpress](https://github.com/betterbook-io/docs/raw/master/assets/betterbook_widget_shortcode.png?screenshot60)
 
 Save the changes to the page to activate the BetterBook Wordpress plugin on the page.
 
