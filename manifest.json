@@ -19,6 +19,10 @@
                     ]
                 },
                 {
+                    "title": "Wordpress",
+                    "path": "/docs/wordpress-plugin.md"
+                },
+                {
                     "title": "FAQ",
                     "path": "/docs/faq.md"
                 }
