@@ -46,6 +46,8 @@ apps.  This will confirm the booking and customer will be notified via email of 
 The following shows the configuration available to set up your PayFast account details in order to receive payments 
 directly into your account from PayFast.
 
+![PayFast Configuration](assets/payfast-configuration-popup.png?screenshot) 
+
 #### Settings
 The following table lists the available settings:
 
@@ -53,8 +55,6 @@ The following table lists the available settings:
 |---|---|
 |  __Merchant ID__| This is a string supplied by PayFast when signing up for an account.| 
 |  __Merchant Key__| This is a string supplied by PayFast when signing up for an account.| 
-|  __Completed Redirect URL__| This is a web address where PayFast will redirect the customer after a payment has been processed successfully.  This should be the address of the Booking page from which the payment was initiated.| 
-|  __Cancelled Redirect URL__| This is a web address where PayFast will redirect the customer after a payment has been cancelled.  This should be the address of the Booking page from which the payment was initiated.| 
 |  __Enable email notifications on successful payments__| This lets PayFast send an email confirmation on every payment that is processed.| 
 |  __Notification email address__ |  When email notifications are enables, this is the address to which notifications will be sent. |
 
