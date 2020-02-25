@@ -34,19 +34,20 @@ can view your company information, services and pricing, and make online booking
 customise your company profile with a custom banner, logo, videos and a photo gallery. 
 
 Your business profile address can be accessed by your customers directly
-or shared with customers by having a Call-to-Action button
-on your Facebook page for example.
+or shared with customers by having a `Call-to-Action` button
+on your Facebook page.
 
 An example of a unique company profile and booking page address:     
 ```
 https://www.betterbook.io/listings/<unique-company-name>
 ``` 
 
+The public booking page is fully customisable from the [BetterBook Portal](https://portal.betterbook.io).
 
 ### Wordpress plugin
 
 BetterBook has a Wordpress plugin that allows the booking widget to be embedded into 
-any Wordpress page or post.
+any Wordpress page or post.  You can read more about setting up the plugin [here](https://www.betterbook.io/docs/wordpress-plugin).
 
 ### Embeddable Widget
 The BetterBook widget can be embedded into any existing website using a few lines of code. 
@@ -57,8 +58,6 @@ The [BetterBook Portal](https://portal.betterbook.io) is a secure management por
 booking experiences.  After signing up for a free trial, you will be able to log into the [BetterBook Portal](https://portal.betterbook.io)
 and start setting up your events and services.   
 
-## Next steps
-Follow the [Getting Started](https://portal.betterbook.co.za) guide to set up your online booking page. 
 
 
 ## Related
@@ -66,14 +65,14 @@ Follow the [Getting Started](https://portal.betterbook.co.za) guide to set up yo
 For more information on what to do next, we recommend the following sections:
 
 <div class="card">
-  <a href="/docs/basic-features/appointments.md">
+  <a href="/docs/appointments.md">
     <b>Appointments:</b>
-    <small>Learn more about what you can do with appointments</small>
+    <small>Learn more about hou you can take online bookings for appointments</small>
   </a>
 </div>
 
 <div class="card">
-  <a href="/docs/basic-features/built-in-css-support.md">
+  <a href="/docs/faq.md">
     <b>FAQ:</b>
     <small>Get to know more about BetterBook with the frequently asked questions.</small>
   </a>
