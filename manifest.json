@@ -7,6 +7,9 @@
                 {
                     "title": "Getting Started",
                     "path": "/docs/getting-started.md"
+                },{
+                    "title": "Public Booking Page",
+                    "path": "/docs/public-profile.md"
                 },
                 {
                     "title": "Basic Features",

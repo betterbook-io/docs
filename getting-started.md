@@ -37,12 +37,12 @@ Your business profile address can be accessed by your customers directly
 or shared with customers by having a `Call-to-Action` button
 on your Facebook page.
 
-An example of a unique company profile and booking page address:     
-```
-https://www.betterbook.io/listings/<unique-company-name>
-``` 
+An example of a unique company profile and booking page can be seen here:
+     
+[https://www.betterbook.io/listings/studiodemo](https://betterbook.io/listings/studiodemo)
 
-The public booking page is fully customisable from the [BetterBook Portal](https://portal.betterbook.io).
+
+You can learn more about customising your public booking page [here](https://betterbook.io/docs/public-profile).
 
 ### Wordpress plugin
 
