@@ -18,6 +18,10 @@
                         {
                             "title": "Appointments",
                             "path": "/docs/appointments.md"
+                        },
+                        {
+                            "title": "Workshops and Events",
+                            "path": "/docs/events-workshops.md"
                         }
                     ]
                 },
