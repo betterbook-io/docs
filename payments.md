@@ -26,7 +26,7 @@ configure multiple payment providers to give more options to your customers.
 
 Please note that you need to sign up to a payment partner in order to take online payments through BetterBook.
 Once you have signed up, you can enable the payment type and configure your account details 
-through the [BetterBook Portal](https://portal.betterbook.io).  Any payments received from customers
+through the [BetterBook Portal](https://www.betterbook.io/portal/).  Any payments received from customers
 will settle directly into the account that have been configured with the payment provider.  
 
 

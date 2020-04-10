@@ -54,8 +54,8 @@ The BetterBook widget can be embedded into any existing website using a few line
 
 
 ## BetterBook Portal
-The [BetterBook Portal](https://portal.betterbook.io) is a secure management portal where you configure your online
-booking experiences.  After signing up for a free trial, you will be able to log into the [BetterBook Portal](https://portal.betterbook.io)
+The [BetterBook Portal](https://www.betterbook.io/portal/) is a secure management portal where you configure your online
+booking experiences.  After signing up for a free trial, you will be able to log into the [BetterBook Portal](https://www.betterbook.io/portal/)
 and start setting up your events and services.   
 
 

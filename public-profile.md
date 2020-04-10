@@ -34,19 +34,19 @@ Some basic features of your booking profile:
     include a refund policy and cancellation policy.
 
 ## Configuring your booking page
-You will find all the available settings and information in the [Settings](https://portal.betterbook.io/#/settings) 
-section of the [BetterBook Portal](https://portal.betterbook.io)
+You will find all the available settings and information in the [Settings](https://www.betterbook.io/portal//#/settings) 
+section of the [BetterBook Portal](https://www.betterbook.io/portal/)
 
-1. Navigate to [https://portal.betterbook.io/#/settings/company](https://portal.betterbook.io/#/settings/company) to set
+1. Navigate to [https://www.betterbook.io/portal//#/settings/company](https://www.betterbook.io/portal//#/settings/company) to set
 up your **Company Information**,**Physical Address**, **Business Hours** and **Terms and Conditions**
-2. Navigate to [https://portal.betterbook.io/#/settings/booking-page](https://portal.betterbook.io/#/settings/booking-page) to set
+2. Navigate to [https://www.betterbook.io/portal//#/settings/booking-page](https://www.betterbook.io/portal//#/settings/booking-page) to set
 up your **Public Booking Profile**, **Banners**, **Gallery** and **Videos**
-3. Navigate to [https://portal.betterbook.io/#/settings/services](https://portal.betterbook.io/#/settings/services) to set
+3. Navigate to [https://www.betterbook.io/portal//#/settings/services](https://www.betterbook.io/portal//#/settings/services) to set
 up your **Services, descriptions & Pricing**
 
 
 ## Updating your booking page
-Your updates are available as soon as you save any changes in [Settings](https://portal.betterbook.io/#/settings).  You
+Your updates are available as soon as you save any changes in [Settings](https://www.betterbook.io/portal//#/settings).  You
 can make changes at any time and as many times as you like.
 
 

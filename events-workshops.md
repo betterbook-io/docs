@@ -9,7 +9,7 @@ once-off and recurring events which are then available for your customers to boo
 
 ### Events, Scheduling and Bookings
 
-Once you have [signed up](https://www.betterbook.io/signup) for a BetterBook account, you have access to the [BetterBook Portal](https://portal.betterbook.io)
+Once you have [signed up](https://www.betterbook.io/signup) for a BetterBook account, you have access to the [BetterBook Portal](https://www.betterbook.io/portal/)
 and online apps.  Using the portal or the mobile app, you can configure your events.
 
 At the most basic level, Events have the following attributes:
@@ -17,14 +17,14 @@ At the most basic level, Events have the following attributes:
 - Start time & duration
 - Media - any images or videos that you want to add to the event listing to improve the customer experience
 
-There is a host of other options available that are easily configured using the [BetterBook Portal](https://portal.betterbook.io).
+There is a host of other options available that are easily configured using the [BetterBook Portal](https://www.betterbook.io/portal/).
 
 
 #### Bookings
 When a booking is made, a branded confirmation email is sent to the customer with the event details.  You can customise the 
 message of the email and include any attachments (totalling less than 10MB) that you want.
 
-Managing the booking is easy from the [BetterBook Portal](https://portal.betterbook.io) or the mobile app.  You
+Managing the booking is easy from the [BetterBook Portal](https://www.betterbook.io/portal/) or the mobile app.  You
 can move the booking to a different workshop, or cancel the booking by following a few easy steps.  
 Any update to a booking also triggers an email to be sent to the customer with details about the update.
 
@@ -42,7 +42,7 @@ payment providers:
 - SnapScan
 
 Once you have an account set up with a payment provider you need to configure your account details 
-on BetterBook so that the payment integration can be activated.  This can easily be done using our [portal](https://portal.betterbook.io) or the mobile app.
+on BetterBook so that the payment integration can be activated.  This can easily be done using our [portal](https://www.betterbook.io/portal/) or the mobile app.
 
 When your customers make a booking, they will be .  The booking is only confirmed once BetterBook receives
 confirmation that the payment has been successful, and once confirmed the customer is notified via email
@@ -63,7 +63,7 @@ An example of a Workshop booking page can be seen [here](http://www.betterbook.i
 
 ### BetterBook Account & Pricing
 There is a 14 day free trial period after which your paid subscription will start.  Subscriptions can
-be cancelled at any time via our [portal](https://portal.betterbook.io) or emailing us at [support@betterbook.io](mailto:support@betterbook.io). 
+be cancelled at any time via our [portal](https://www.betterbook.io/portal/) or emailing us at [support@betterbook.io](mailto:support@betterbook.io). 
 
 You can view the pricing details [here](http://www.betterbook.io/pricing).  Payment can be made via credit card.
 
